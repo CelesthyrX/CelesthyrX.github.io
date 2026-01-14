@@ -101,3 +101,40 @@
 }
 
 
+@media (min-width: 768px) and (max-width: 1024px){
+
+  .title-frame{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 10px;
+    padding-bottom: 5px;
+  }
+
+  .title-comments{
+    font-size: 19px;
+    font-family: 'Pixelify Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 5px;
+  }
+
+  .title-button{
+    font-size: 12px;
+    margin-left:  35%;
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin-top: 5px;
+    padding: 5px;
+  }
+}
+
+
+
