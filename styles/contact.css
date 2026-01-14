@@ -1,0 +1,106 @@
+body{
+  padding-bottom: 20px;
+}
+
+.title{
+  display: block;
+  text-align: center;
+  font-family: 'Pixelify Sans', sans-serif;
+  font-size: 64px;
+  width: 100%;
+  margin: 0;
+}
+
+.description{
+  display: block;
+  font-size: 17px;
+  font-family:  'Pixelify Sans', sans-serif;
+  text-align: center;
+  width: 100%;
+  height: 70px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.contact-frame{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.information{
+  font-size: 20px;
+  font-family:  'Pixelify Sans', sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.information-input{
+  width: 100%;
+  height: 30px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+.input-color{
+  color: black;
+}
+
+
+.information-input1{
+  width: 100%;
+  height: 100px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.pattern-background{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.2;
+  object-fit: cover;
+}
+.button-frame{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Pixelify Sans', sans-serif;
+  font-size: 30px;
+}
+
+.submit-button{
+  font: 32px;
+  font-family:  'Pixelify Sans', sans-serif;
+  display: block;
+  margin-top: 5px;
+  width:120px;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: white;
+  background-color: rgba(0,0,0);
+  padding: 10px;
+  margin-bottom: 30px;
+
+}
+
+
+.table{
+  font-size: 19px;
+  font-family: 'Pixelify Sans', sans-serif;
+  width: 100%;
+  height: 60px;
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 10px;
+  margin-bottom: 20%;
+}

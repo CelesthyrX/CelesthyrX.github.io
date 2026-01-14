@@ -1,0 +1,15 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Top beam -->
+  <rect x="40" y="40" width="220" height="22" rx="6" fill="#E53935"></rect>
+
+  <!-- Second beam -->
+  <rect x="60" y="70" width="180" height="16" rx="5" fill="#D32F2F"></rect>
+
+  <!-- Left pillar -->
+  <rect x="80" y="86" width="26" height="170" fill="#E53935"></rect>
+
+  <!-- Right pillar -->
+  <rect x="194" y="86" width="26" height="170" fill="#E53935"></rect>
+
+</svg>
